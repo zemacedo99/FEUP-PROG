@@ -1,0 +1,27 @@
+Rui Manuel
+234987156
+4
+Rua Sem Fim / 200 / 5Esq /1200-001 / Lisboa
+10 ; 36 ; 2
+504
+::::::::::
+Belmiro Miguel
+111987666
+2
+Avenida dos Grilos / 100 / - /2300-101 / Coimbra
+100 ; 136 ; 20
+1300
+::::::::::
+Maria Joana
+420420420
+4
+Rua da Liberdade/ 4 /20/4200-420/Marte
+3
+400
+::::::::::
+Jose Macedo
+235353019
+4
+Rua de Vilar de Baixo/ 320 /-/4615-237/Lixa
+3 ; 1
+100
